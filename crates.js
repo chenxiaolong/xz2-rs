@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["lzma_sys","xz2"];
