@@ -1,4 +1,4 @@
 [submodule "lzma-sys/xz"]
 	path = lzma-sys/xz
 	url = https://github.com/xz-mirror/xz
-	branch = v5.2
+	branch = v5.4
